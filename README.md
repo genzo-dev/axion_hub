@@ -1,5 +1,5 @@
 <p align="center" style="padding-top: 40px; padding-bottom:40px;">
-  <img src="images/axion-bg.svg" alt="Logo do Axion" width="1000"/>
+  <img src="images/axion-banner.png" alt="Logo do Axion" width="1000"/>
 </p>
 
 <p align="center">
